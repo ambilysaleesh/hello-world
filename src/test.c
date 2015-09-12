@@ -8,6 +8,7 @@ int main()
 
   j  = (++i) * (++i) * (++i);
   printf("  %d   ", j);
+//print i
 
   return 0;
 
